@@ -6,6 +6,7 @@ body{
   background-color: #E8DADA;
   text-align: center;
   padding: 30px;
+  display: flex;
 }
 .sorvete{
   text-align: left;
