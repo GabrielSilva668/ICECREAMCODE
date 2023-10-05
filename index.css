@@ -12,9 +12,11 @@ body{
   text-align: left;
   border: 10px solid white; 
   border-radius: 10px; 
+  hover: blue;
 }
 .milkshakes{
   text-align: right;
    border: 10px solid white; 
    border-radius: 10px; 
+   hover: blue;
 }
