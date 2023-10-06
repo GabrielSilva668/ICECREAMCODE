@@ -22,4 +22,6 @@ main h1{
  color: white;
  display: flex;
  text-align: left;
+ font-family: Impact;
+ font-size: 50px;
 }
