@@ -8,17 +8,11 @@ body{
   text-align: center;
   padding: 30px;
 }
-.sorvete{
-  text-align: left;
+main a{
+  text-align: center;
   border: 10px solid white; 
   border-radius: 10px; 
   hover: pink;
   margen: 20px;
-}
-.milkshakes{
-  text-align: right;
-   border: 10px solid white; 
-   border-radius: 10px; 
-   hover: pink;
-   margen: 20px;
+  display: flex;
 }
