@@ -1,7 +1,7 @@
 body{
   background-color: pink;
   color: white;
-  text-align: center;
+  text-align: left;
 }
 .faixa-header{
   background-color: #E8DADA;
@@ -10,7 +10,7 @@ body{
 }
 main{
   display: flex;
-  justify-content: center;
+  justify-content: left;
 }
 main img{
   border: 10px solid white; 
@@ -19,7 +19,7 @@ main img{
   margin: 20px;
 }
 main h3{
- color: white;
+ color: left;
  display: flex;
  text-align: center;
 }
