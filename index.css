@@ -15,4 +15,5 @@ main img{
   hover: pink;
   margen: 20px;
   display: flex;
+  justify-content: center;
 }
