@@ -10,7 +10,7 @@ body{
 }
 main{
   display: flex;
-  justify-content: left;
+  justify-content: center;
 }
 main img{
   border: 10px solid white; 
