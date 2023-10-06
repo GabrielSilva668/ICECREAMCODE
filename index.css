@@ -21,7 +21,7 @@ main img{
 main h1{
  color: white;
  display: flex;
- text-align: left;
+ text-align: center;
  font-family: Impact;
  font-size: 50px;
 }
