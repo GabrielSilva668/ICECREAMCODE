@@ -17,6 +17,7 @@ main img{
   border: 10px solid white; 
   border-radius: 10px; 
   hover: pink;
-  margen: 20px;
-  
+  margin: 20px;
+  display: inline-block;
+  vertical-align: middle;
 }
